@@ -1,0 +1,45 @@
+2019-06-23 13:02:49,702 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-23 13:02:52,821 [main] INFO Sel_Hybrid_v1 - username entered
+2019-06-23 13:02:52,867 [main] INFO Sel_Hybrid_v1 - password entered
+2019-06-23 13:02:53,579 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-06-23 13:27:12,013 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-23 13:27:12,218 [main] INFO Sel_Hybrid_v1 - username entered
+2019-06-23 13:27:12,282 [main] INFO Sel_Hybrid_v1 - password entered
+2019-06-23 13:27:13,068 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-06-23 13:31:48,690 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-23 13:31:48,883 [main] INFO Sel_Hybrid_v1 - username entered
+2019-06-23 13:31:48,949 [main] INFO Sel_Hybrid_v1 - password entered
+2019-06-23 13:31:49,416 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-06-23 13:33:40,539 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-23 13:33:41,365 [main] INFO Sel_Hybrid_v1 - username entered
+2019-06-23 13:33:41,413 [main] INFO Sel_Hybrid_v1 - password entered
+2019-06-23 13:33:41,950 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-06-23 18:20:48,783 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-23 18:20:49,521 [main] INFO Sel_Hybrid_v1 - username entered
+2019-06-23 18:20:49,583 [main] INFO Sel_Hybrid_v1 - password entered
+2019-06-23 18:20:50,063 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-06-23 18:20:53,936 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-23 18:20:54,057 [main] INFO Sel_Hybrid_v1 - username entered
+2019-06-23 18:20:54,118 [main] INFO Sel_Hybrid_v1 - password entered
+2019-06-23 18:20:54,524 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-06-23 18:20:59,169 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-23 18:20:59,273 [main] INFO Sel_Hybrid_v1 - username entered
+2019-06-23 18:20:59,331 [main] INFO Sel_Hybrid_v1 - password entered
+2019-06-23 18:20:59,786 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-06-23 18:21:02,707 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-23 18:21:02,814 [main] INFO Sel_Hybrid_v1 - username entered
+2019-06-23 18:21:02,881 [main] INFO Sel_Hybrid_v1 - password entered
+2019-06-23 18:21:03,360 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-06-30 17:17:58,803 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-06-30 17:18:05,616 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-06-30 17:18:15,797 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-30 17:18:15,827 [main] ERROR Sel_Hybrid_v1 - Class ExcelUtil | Method getCellData | Exception desc : null
+2019-06-30 17:18:15,828 [main] ERROR Sel_Hybrid_v1 - Class ExcelUtil | Method getCellData | Exception desc : null
+2019-06-30 17:20:28,870 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-06-30 17:20:32,515 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-06-30 17:20:44,423 [main] INFO Sel_Hybrid_v1 - URL is opened
+2019-06-30 17:20:44,447 [main] ERROR Sel_Hybrid_v1 - Class ExcelUtil | Method getCellData | Exception desc : null
+2019-06-30 17:20:44,448 [main] ERROR Sel_Hybrid_v1 - Class ExcelUtil | Method getCellData | Exception desc : null
+2019-06-30 17:24:16,276 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-06-30 17:24:19,964 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-06-30 17:24:32,139 [main] INFO Sel_Hybrid_v1 - URL is opened
