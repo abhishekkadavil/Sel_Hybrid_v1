@@ -7,6 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.seleniumHybrid.testCase.BaseClass;
+import com.seleniumHybrid.utils.Log;
 
 public class SampWebLogin extends BaseClass {
 	
@@ -33,19 +34,19 @@ public class SampWebLogin extends BaseClass {
 	public void setUserName(String uname)
 	{
 		txtUserName.sendKeys(uname);
-		logger.info("username entered");
+		Log.info("username entered");
 	}
 	
 	public void setPaswword(String password)
 	{
 		txtUserName.sendKeys(password);
-		logger.info("password entered");
+		Log.info("password entered");
 	}
 	
 	public void clickSubmitButton()
 	{
 		btnLogin.click();
-		logger.info("login button clicked");
+		Log.info("login button clicked");
 	}
 
 }

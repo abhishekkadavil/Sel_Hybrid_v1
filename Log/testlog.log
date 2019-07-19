@@ -2,7 +2,7 @@
 2019-06-23 13:02:52,821 - Sel_Hybrid_v1 -INFO - username entered
 2019-06-23 13:02:52,867 - Sel_Hybrid_v1 -INFO - password entered
 2019-06-23 13:02:53,579 - Sel_Hybrid_v1 -INFO - login button clicked
-2019-06-23 13:27:12,013 - Sel_Hybrid_v1 -INFO - URL is o
+2019-06-23 13:27:12,013 - Sel_Hybrid_v1 -INFO - URL is opened
 2019-06-23 13:27:12,218 - Sel_Hybrid_v1 -INFO - username entered
 2019-06-23 13:27:12,282 - Sel_Hybrid_v1 -INFO - password entered
 2019-06-23 13:27:13,068 - Sel_Hybrid_v1 -INFO - login button clicked
@@ -43,3 +43,6 @@
 2019-06-30 17:24:16,276 - Sel_Hybrid_v1 -INFO - Driver is initialized
 2019-06-30 17:24:19,964 - Sel_Hybrid_v1 -INFO - Driver selected as chrome
 2019-06-30 17:24:32,139 - Sel_Hybrid_v1 -INFO - URL is opened
+2019-07-19 18:46:38,426 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-19 18:46:44,134 - Sel_Hybrid_v1 -INFO - Driver selected as chrome
+2019-07-19 18:46:55,313 - Sel_Hybrid_v1 -INFO - URL is opened

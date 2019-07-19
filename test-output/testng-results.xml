@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-06-30T11:50:28Z" name="Suite1" finished-at="2019-06-30T11:50:51Z" duration-ms="22941">
+  <suite started-at="2019-07-19T13:16:37Z" name="Suite1" finished-at="2019-07-19T13:16:56Z" duration-ms="18745">
     <groups>
     </groups>
-    <test started-at="2019-06-30T11:50:28Z" name="Regression1" finished-at="2019-06-30T11:50:51Z" duration-ms="22941">
+    <test started-at="2019-07-19T13:16:37Z" name="Regression1" finished-at="2019-07-19T13:16:56Z" duration-ms="18745">
       <class name="com.seleniumHybrid.testCase.TC_LoginTestModulleMethod">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-06-30T11:50:28Z" name="setup" finished-at="2019-06-30T11:50:44Z" duration-ms="15616" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-07-19T13:16:38Z" name="setup" finished-at="2019-07-19T13:16:55Z" duration-ms="16984" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,50 +18,16 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginTest()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-06-30T11:50:44Z" name="LoginTest" finished-at="2019-06-30T11:50:50Z" duration-ms="6184" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnSignIn']"}
-  (Session info: chrome=75.0.3770.100)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-0JVKVD7', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.90 (a6dcaf7e3ec6f..., userDataDir: C:\Users\Kadavil\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62855}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 2b0653a3b2d42f5d2bff3ce98aee69b8
-*** Element info: {Using=name, value=btnSignIn}]]>
-            </message>
+        <test-method signature="LoginTest1()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-07-19T13:16:55Z" name="LoginTest1" finished-at="2019-07-19T13:16:55Z" duration-ms="101" status="FAIL">
+          <exception class="java.lang.NullPointerException">
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnSignIn']"}
-  (Session info: chrome=75.0.3770.100)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-0JVKVD7', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.90 (a6dcaf7e3ec6f..., userDataDir: C:\Users\Kadavil\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62855}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 2b0653a3b2d42f5d2bff3ce98aee69b8
-*** Element info: {Using=name, value=btnSignIn}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:404)
-at org.openqa.selenium.By$ByName.findElement(By.java:284)
-at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+              <![CDATA[java.lang.NullPointerException
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
 at com.sun.proxy.$Proxy11.click(Unknown Source)
 at com.seleniumHybrid.pageObject.SampWebHomePage.clickLoginButton(SampWebHomePage.java:23)
 at com.seleniumHybrid.appModule.SignIn_Action.Execute(SignIn_Action.java:19)
-at com.seleniumHybrid.testCase.TC_LoginTestModulleMethod.LoginTest(TC_LoginTestModulleMethod.java:27)
+at com.seleniumHybrid.testCase.TC_LoginTestModulleMethod.LoginTest1(TC_LoginTestModulleMethod.java:45)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -89,11 +55,11 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-06-30T11:50:50Z" name="tearDown" finished-at="2019-06-30T11:50:51Z" duration-ms="752" status="PASS">
+        </test-method> <!-- LoginTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-07-19T13:16:55Z" name="tearDown" finished-at="2019-07-19T13:16:56Z" duration-ms="1116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

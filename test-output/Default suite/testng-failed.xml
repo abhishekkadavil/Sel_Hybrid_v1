@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.seleniumHybrid.testCase.TC_LoginTest_001">
+      <class name="com.seleniumHybrid.testCase.TC_LoginTestModulleMethod">
         <methods>
           <include name="setup"/>
+          <include name="LoginTest1"/>
           <include name="tearDown"/>
-          <include name="LoginTest"/>
         </methods>
-      </class> <!-- com.seleniumHybrid.testCase.TC_LoginTest_001 -->
+      </class> <!-- com.seleniumHybrid.testCase.TC_LoginTestModulleMethod -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

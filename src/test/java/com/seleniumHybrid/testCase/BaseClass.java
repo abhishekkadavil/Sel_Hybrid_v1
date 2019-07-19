@@ -2,51 +2,70 @@ package com.seleniumHybrid.testCase;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.BeforeMethod;
 
+import com.seleniumHybrid.utils.Constant;
+import com.seleniumHybrid.utils.ExcelUtils;
+import com.seleniumHybrid.utils.Log;
 import com.seleniumHybrid.utils.ReadConfig;
+import com.seleniumHybrid.utils.Utils;
 
 public class BaseClass {
 	
 	ReadConfig readconfig = new ReadConfig();
-	private String baseURL = readconfig.getApplicationURL();
 	public String TestDataPath=readconfig.getTestDataPath();
 	public String TestDataSheet=readconfig.getTestDataSheetName();
+	private String TestCaseName;
+	private int TestCaseRow;
 	
 	public static WebDriver driver;
-	public static Logger logger;
 	
-	@Parameters("browser")
 	@BeforeClass
-	public void setup(String Browser)
+	public void setup(String Browser) throws Exception 
 	{
-		logger=Logger.getLogger("Sel_Hybrid_v1");
-		PropertyConfigurator.configure("Log4J.properties");
-		logger.info("Driver is initialized");
+		Log.InitLog();
+		Log.info("Driver is initialized");
 		
-		if(Browser.equalsIgnoreCase("chrome"))
-		{
-			System.setProperty("webdriver.chrome.driver", readconfig.getChromePath());
-			driver=new ChromeDriver();
-			logger.info("Driver selected as chrome");
-		}
-		
-		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);	
-		driver.get(baseURL);
-		logger.info("URL is opened");
-		
+		// Setting up the Test Data Excel file using Constants variables
+		// For Constant Variables please see http://www.toolsqa.com/constant-variables/
+		// For setting up Excel for Data driven testing, please see
+		// http://www.toolsqa.com/data-driven-testing-excel-poi/
+		ExcelUtils.setExcelFile(TestDataPath, TestDataSheet);
+	}
+	
+	@BeforeMethod
+	public void beforeMethod() throws Exception 
+	{
+		TestCaseName = this.toString();
+		// From above method we get long test case name including package and class name etc.
+		// The below method will refine your test case name, exactly the name use have used
+		TestCaseName = Utils.getTestCaseName(this.toString());
+
+		// Start printing the logs and printing the Test Case name
+		Log.startTestCase(TestCaseName);
+
+		// Fetching the Test Case row number from the Test Data Sheet
+		// This row number will be feed to so many functions, to get the relevant data from the Test Data sheet 
+		TestCaseRow = ExcelUtils.getRowContains(TestCaseName,Constant.Col_TestCaseName);
+
+		// Launching the browser, this will take the Browser Type from Test Data Sheet 
+		driver = Utils.OpenBrowser(TestCaseRow);
+	}
+	
+	@AfterMethod
+	public void afterMethod() 
+	{
+		Log.endTestCase(TestCaseName);
+		driver.close();
 	}
 	
 	@AfterClass

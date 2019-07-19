@@ -25,11 +25,11 @@ public class ExcelUtils extends BaseClass
 			// Access the required test data sheet
 			ExcelWBook = new XSSFWorkbook(ExcelFile);
 			ExcelWSheet = ExcelWBook.getSheet(SheetName);
-			logger.info("Excel sheet opened");
+			Log.info("Excel sheet opened");
 		} 
 		catch (Exception e)
 		{
-			logger.error("Class ExcelUtil | Method setExcelFile | Exception desc : "+e.getMessage());
+			Log.error("Class ExcelUtil | Method setExcelFile | Exception desc : "+e.getMessage());
 			throw (e);
 		}
 	}
@@ -41,13 +41,13 @@ public class ExcelUtils extends BaseClass
 		{
 			Cell = ExcelWSheet.getRow(RowNum).getCell(ColNum);
 			String CellData = Cell.getStringCellValue();
-			logger.info("Data retrieved from excel cell ("+RowNum+","+ColNum+")");
-			logger.info("Value : "+CellData);
+			Log.info("Data retrieved from excel cell ("+RowNum+","+ColNum+")");
+			Log.info("Value : "+CellData);
 			return CellData;
 		}
 		catch (Exception e)
 		{
-			logger.error("Class ExcelUtil | Method getCellData | Exception desc : "+e.getMessage());
+			Log.error("Class ExcelUtil | Method getCellData | Exception desc : "+e.getMessage());
 			return"";
 		}
 	}
@@ -96,7 +96,7 @@ public class ExcelUtils extends BaseClass
 		}
 		catch (Exception e)
 		{
-			logger.error("Class ExcelUtil | Method getRowContains | Exception desc : " + e.getMessage());
+			Log.error("Class ExcelUtil | Method getRowContains | Exception desc : " + e.getMessage());
 			throw(e);
 		}
 	}
@@ -106,12 +106,12 @@ public class ExcelUtils extends BaseClass
 		try
 		{
 			int RowCount = ExcelWSheet.getLastRowNum();
-			logger.info("Total number of Row used return as < " + RowCount + " >.");		
+			Log.info("Total number of Row used return as < " + RowCount + " >.");		
 			return RowCount;
 		}
 		catch (Exception e)
 		{
-			logger.error("Class ExcelUtil | Method getRowUsed | Exception desc : "+e.getMessage());
+			Log.error("Class ExcelUtil | Method getRowUsed | Exception desc : "+e.getMessage());
 			System.out.println(e.getMessage());
 			throw (e);
 		}

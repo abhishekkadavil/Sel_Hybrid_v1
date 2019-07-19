@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 
 import com.seleniumHybrid.testCase.BaseClass;
+import com.seleniumHybrid.utils.Log;
 
 public class SampWebHomePage extends BaseClass {
 	
@@ -21,7 +22,7 @@ public class SampWebHomePage extends BaseClass {
 	public void clickLoginButton()
 	{
 		btnSignIn.click();
-		logger.info("Sign in button clicked");
+		Log.info("Sign in button clicked");
 	}
 
 }

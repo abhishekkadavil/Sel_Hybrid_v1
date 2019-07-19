@@ -6,14 +6,14 @@ import com.seleniumHybrid.pageObject.SampWebHomePage;
 import com.seleniumHybrid.pageObject.SampWebLogin;
 
 public class SignIn_Action   {
-
-	WebDriver Idriver;
+	
+	public static WebDriver Idriver;
 	public SignIn_Action(WebDriver rdriver) 
 	{
 		Idriver=rdriver;
 	}
 
-	public void Execute(String uname, String password)
+	public static void Execute(String uname, String password)
 	{
 		SampWebHomePage home= new SampWebHomePage(Idriver);
 		home.clickLoginButton();
@@ -22,6 +22,7 @@ public class SignIn_Action   {
 		login.setUserName(uname);
 		login.setPaswword(password);
 		login.clickSubmitButton();
+
 	}
 
 }
