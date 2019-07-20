@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Default_suite" class="navigator-link ">
-                    <span>C:\Users\Kadavil\AppData\Local\Temp\testng-eclipse-1734614026\testng-customsuite.xml</span>
+                    <span>C:\Users\Kadavil\AppData\Local\Temp\testng-eclipse--1407539417\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -128,9 +128,21 @@
                   <a name="LoginTest">
                   </a> <!-- LoginTest -->
                   <span class="method-name">LoginTest</span>
-                  <div class="stack-trace">java.lang.NullPointerException
-	at com.seleniumHybrid.pageObject.SampWebHomePage.&lt;init&gt;(SampWebHomePage.java:14)
-	at com.seleniumHybrid.appModule.SignIn_Action.Execute(SignIn_Action.java:17)
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: Cannot locate an element using name=btnSignIn
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-0JVKVD7&apos;, ip: &apos;192.168.0.101&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.2&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByName.findElement(By.java:284)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at com.seleniumHybrid.pageObject.SampWebHomePage.clickLoginButton(SampWebHomePage.java:24)
+	at com.seleniumHybrid.appModule.SignIn_Action.Execute(SignIn_Action.java:18)
 	at com.seleniumHybrid.testCase.TC_LoginTestModulleMethod.LoginTest(TC_LoginTestModulleMethod.java:13)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -166,7 +178,7 @@
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\Kadavil\AppData\Local\Temp\testng-eclipse-1734614026\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\Kadavil\AppData\Local\Temp\testng-eclipse--1407539417\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -219,12 +231,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'LoginTest')
 data.setCell(0, 2, 'com.seleniumHybrid.testCase.TC_LoginTestModulleMethod')
-data.setCell(0, 3, 29);
+data.setCell(0, 3, 20951);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 29 ms</span>
+              <span class="suite-total-time">Total running time: 20 seconds</span>
               <div id="times-div-Default_suite">
               </div> <!-- times-div-Default_suite -->
             </div> <!-- times-div -->
@@ -257,20 +269,22 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void com.seleniumHybrid.testCase.TC_LoginTestModulleMethod.LoginTest() throws java.lang.Excep...)</span>
-                <span class="method-start">1123 ms</span>
+                <span class="method-start">1004 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">LoginTest</span>
-                <span class="method-start">1591 ms</span>
+                <span class="method-start">27858 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">afterMethod</span>
-                <span class="method-start">1626 ms</span>
+                <span class="method-start">48820 ms</span>
               </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">49592 ms</span>
+              </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

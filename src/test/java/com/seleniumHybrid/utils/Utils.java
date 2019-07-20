@@ -35,6 +35,7 @@ public class Utils extends BaseClass {
 			sBrowserName = ExcelUtils.getCellData(iTestCaseRow, Constant.Col_Browser);
 			if (sBrowserName.equalsIgnoreCase("chrome")) 
 			{
+				System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir").toString()+"\\Drivers\\chromedriver.exe");
 				driver=new ChromeDriver();
 				Log.info("Driver selected as chrome");
 
