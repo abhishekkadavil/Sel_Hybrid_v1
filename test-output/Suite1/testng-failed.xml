@@ -9,9 +9,11 @@
     <classes>
       <class name="com.seleniumHybrid.testCase.TC_LoginTestModulleMethod">
         <methods>
-          <include name="setup"/>
-          <include name="LoginTest1"/>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
           <include name="tearDown"/>
+          <include name="LoginTest"/>
         </methods>
       </class> <!-- com.seleniumHybrid.testCase.TC_LoginTestModulleMethod -->
     </classes>

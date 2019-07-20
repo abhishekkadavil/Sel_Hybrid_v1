@@ -46,3 +46,207 @@
 2019-07-19 18:46:38,426 - Sel_Hybrid_v1 -INFO - Driver is initialized
 2019-07-19 18:46:44,134 - Sel_Hybrid_v1 -INFO - Driver selected as chrome
 2019-07-19 18:46:55,313 - Sel_Hybrid_v1 -INFO - URL is opened
+2019-07-20 17:22:30,105 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 17:22:30,152 - Sel_Hybrid_v1 -ERROR - Class ExcelUtil | Method setExcelFile | Exception desc : \src\test\java\com\seleniumHybrid\testData\DatadrivenTestData.xlsx (The system cannot find the path specified)
+2019-07-20 17:23:16,795 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 17:23:16,802 - Sel_Hybrid_v1 -ERROR - Class ExcelUtil | Method setExcelFile | Exception desc : \src\test\java\com\seleniumHybrid\testData\DatadrivenTestData.xlsx (The system cannot find the path specified)
+2019-07-20 17:35:41,781 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 17:35:45,295 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 17:35:45,328 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 17:35:45,330 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 17:35:45,331 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 TC_LoginTestModulleMethod       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 17:35:45,333 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 17:35:45,334 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 17:35:45,336 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 17:35:45,380 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 17:35:45,383 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 17:35:45,387 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 17:35:45,389 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 17:35:45,394 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,3)
+2019-07-20 17:35:45,397 - Sel_Hybrid_v1 -INFO - Value : Mozilla
+2019-07-20 17:35:45,422 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,1)
+2019-07-20 17:35:45,423 - Sel_Hybrid_v1 -INFO - Value : testuser_1
+2019-07-20 17:35:45,429 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,2)
+2019-07-20 17:35:45,431 - Sel_Hybrid_v1 -INFO - Value : Test@123
+2019-07-20 17:35:45,507 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-07-20 17:35:45,508 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 17:35:45,509 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 17:35:45,510 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 17:35:45,510 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:23:42,065 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 18:23:43,163 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 18:23:43,217 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:23:43,218 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:23:43,218 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 TC_LoginTestModulleMethod       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 18:23:43,219 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:23:43,219 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:23:43,220 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 18:23:43,228 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 18:23:43,229 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 18:23:43,230 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 18:23:43,231 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 18:23:43,232 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,3)
+2019-07-20 18:23:43,233 - Sel_Hybrid_v1 -INFO - Value : Mozilla
+2019-07-20 18:23:43,242 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,1)
+2019-07-20 18:23:43,243 - Sel_Hybrid_v1 -INFO - Value : testuser_1
+2019-07-20 18:23:43,246 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,2)
+2019-07-20 18:23:43,247 - Sel_Hybrid_v1 -INFO - Value : Test@123
+2019-07-20 18:23:43,278 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-07-20 18:23:43,278 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:23:43,279 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:23:43,280 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:23:43,280 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:24:26,616 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 18:24:27,635 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 18:24:27,647 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:24:27,648 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:24:27,648 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 TC_LoginTestModulleMethod       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 18:24:27,649 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:24:27,650 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:24:27,651 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 18:24:27,662 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 18:24:27,663 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 18:24:27,664 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 18:24:27,665 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 18:24:27,666 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,3)
+2019-07-20 18:24:27,667 - Sel_Hybrid_v1 -INFO - Value : Mozilla
+2019-07-20 18:24:27,677 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,1)
+2019-07-20 18:24:27,678 - Sel_Hybrid_v1 -INFO - Value : testuser_1
+2019-07-20 18:24:27,680 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,2)
+2019-07-20 18:24:27,681 - Sel_Hybrid_v1 -INFO - Value : Test@123
+2019-07-20 18:24:27,693 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-07-20 18:24:27,694 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:24:27,705 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:24:27,706 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:24:27,707 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:32:03,708 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 18:32:04,518 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 TC_LoginTestModulleMethod       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 18:32:04,549 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 18:32:25,294 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,3)
+2019-07-20 18:32:25,311 - Sel_Hybrid_v1 -INFO - Value : Mozilla
+2019-07-20 18:35:29,812 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 18:35:30,574 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 18:35:30,574 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:35:30,574 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:35:30,574 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 TC_LoginTestModulleMethod       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,3)
+2019-07-20 18:35:30,590 - Sel_Hybrid_v1 -INFO - Value : Mozilla
+2019-07-20 18:35:30,652 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,1)
+2019-07-20 18:35:30,652 - Sel_Hybrid_v1 -INFO - Value : testuser_1
+2019-07-20 18:35:30,652 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,2)
+2019-07-20 18:35:30,652 - Sel_Hybrid_v1 -INFO - Value : Test@123
+2019-07-20 18:35:30,668 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-07-20 18:35:30,668 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:35:30,668 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:35:30,668 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:35:30,668 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:43:13,871 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 18:43:14,800 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 18:43:14,816 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:43:14,816 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:43:14,816 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 TC_LoginTestModulleMethod       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 18:43:14,816 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:43:14,816 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:43:14,816 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 18:43:14,832 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 18:43:14,832 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 18:43:14,832 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 18:43:14,832 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 18:45:44,195 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 18:45:44,991 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 18:45:45,004 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:45:45,005 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:45:45,006 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 TC_LoginTestModulleMethod       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 18:45:45,006 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:45:45,007 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:45:45,008 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 18:45:45,016 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 18:45:45,017 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 18:45:45,018 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 18:45:45,019 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 18:46:01,177 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,3)
+2019-07-20 18:46:01,190 - Sel_Hybrid_v1 -INFO - Value : Mozilla
+2019-07-20 18:46:37,806 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,1)
+2019-07-20 18:46:37,819 - Sel_Hybrid_v1 -INFO - Value : testuser_1
+2019-07-20 18:46:37,936 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,2)
+2019-07-20 18:46:37,948 - Sel_Hybrid_v1 -INFO - Value : Test@123
+2019-07-20 18:46:43,484 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-07-20 18:46:43,498 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:46:43,509 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:46:43,520 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:46:43,532 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:58:32,390 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 18:58:33,176 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 18:58:33,187 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:58:33,187 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:58:33,188 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 TC_LoginTestModulleMethod       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 18:58:33,188 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:58:33,189 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 18:58:33,189 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 18:58:33,196 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 18:58:33,196 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 18:58:33,197 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 18:58:33,198 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 18:58:33,199 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,3)
+2019-07-20 18:58:33,199 - Sel_Hybrid_v1 -INFO - Value : Mozilla
+2019-07-20 18:58:33,207 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,1)
+2019-07-20 18:58:33,207 - Sel_Hybrid_v1 -INFO - Value : testuser_1
+2019-07-20 18:58:33,209 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (2,2)
+2019-07-20 18:58:33,210 - Sel_Hybrid_v1 -INFO - Value : Test@123
+2019-07-20 18:58:33,225 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-07-20 18:58:33,226 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:58:33,229 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:58:33,230 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 18:58:33,231 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 19:05:53,997 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 19:05:54,784 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 19:05:54,797 - Sel_Hybrid_v1 -ERROR - Class Utils | Method getTestCaseName | Exception desc : begin 0, end -1, length 104
+2019-07-20 19:06:41,930 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 19:06:42,731 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 19:06:42,748 - Sel_Hybrid_v1 -ERROR - Class Utils | Method getTestCaseName | Exception desc : begin 0, end -1, length 9
+2019-07-20 19:07:02,893 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 19:07:03,681 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 19:07:03,696 - Sel_Hybrid_v1 -ERROR - Class Utils | Method getTestCaseName | Exception desc : begin 0, end -1, length 9
+2019-07-20 19:08:01,476 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 19:08:02,341 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 19:08:02,352 - Sel_Hybrid_v1 -ERROR - Class Utils | Method getTestCaseName | Exception desc : begin 0, end -1, length 9
+2019-07-20 19:09:48,839 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-07-20 19:09:49,688 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-07-20 19:09:49,700 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 19:09:49,701 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 19:09:49,702 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-20 19:09:49,703 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 19:09:49,705 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-07-20 19:09:49,705 - Sel_Hybrid_v1 -INFO - Total number of Row used return as < 2 >.
+2019-07-20 19:09:49,713 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (0,0)
+2019-07-20 19:09:49,714 - Sel_Hybrid_v1 -INFO - Value : Test Case Name
+2019-07-20 19:09:49,714 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,0)
+2019-07-20 19:09:49,715 - Sel_Hybrid_v1 -INFO - Value : LoginTest
+2019-07-20 19:09:49,716 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,3)
+2019-07-20 19:09:49,717 - Sel_Hybrid_v1 -INFO - Value : Chrome
+2019-07-20 19:09:50,163 - Sel_Hybrid_v1 -ERROR - Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+2019-07-20 19:09:50,186 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,1)
+2019-07-20 19:09:50,188 - Sel_Hybrid_v1 -INFO - Value : testuser_1
+2019-07-20 19:09:50,189 - Sel_Hybrid_v1 -INFO - Data retrieved from excel cell (1,2)
+2019-07-20 19:09:50,190 - Sel_Hybrid_v1 -INFO - Value : Test@123
+2019-07-20 19:09:50,201 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-07-20 19:09:50,204 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 19:09:50,207 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 19:09:50,208 - Sel_Hybrid_v1 -INFO - X
+2019-07-20 19:09:50,209 - Sel_Hybrid_v1 -INFO - X

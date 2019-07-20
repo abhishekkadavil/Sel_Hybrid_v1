@@ -1,24 +1,23 @@
 package com.seleniumHybrid.appModule;
 
-import org.openqa.selenium.WebDriver;
-
 import com.seleniumHybrid.pageObject.SampWebHomePage;
 import com.seleniumHybrid.pageObject.SampWebLogin;
+import com.seleniumHybrid.testCase.BaseClass;
+import com.seleniumHybrid.utils.Constant;
+import com.seleniumHybrid.utils.ExcelUtils;
 
-public class SignIn_Action   {
-	
-	public static WebDriver Idriver;
-	public SignIn_Action(WebDriver rdriver) 
-	{
-		Idriver=rdriver;
-	}
+public class SignIn_Action extends BaseClass  
+{
 
-	public static void Execute(String uname, String password)
+	public static void Execute(int testcaserow) throws Exception
 	{
-		SampWebHomePage home= new SampWebHomePage(Idriver);
+		String uname=ExcelUtils.getCellData(testcaserow, Constant.Col_UserName);
+		String password=ExcelUtils.getCellData(testcaserow, Constant.Col_Password);
+		
+		SampWebHomePage home= new SampWebHomePage(driver);
 		home.clickLoginButton();
 		
-		SampWebLogin login= new SampWebLogin(Idriver);
+		SampWebLogin login= new SampWebLogin(driver);
 		login.setUserName(uname);
 		login.setPaswword(password);
 		login.clickSubmitButton();

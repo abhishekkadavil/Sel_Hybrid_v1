@@ -2,6 +2,7 @@ package com.seleniumHybrid.testCase;
 
 import java.io.File;
 import java.io.IOException;
+import java.lang.reflect.Method;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -25,12 +26,12 @@ public class BaseClass {
 	public String TestDataPath=readconfig.getTestDataPath();
 	public String TestDataSheet=readconfig.getTestDataSheetName();
 	private String TestCaseName;
-	private int TestCaseRow;
+	public static int TestCaseRow;
 	
 	public static WebDriver driver;
 	
 	@BeforeClass
-	public void setup(String Browser) throws Exception 
+	public void beforeClass() throws Exception 
 	{
 		Log.InitLog();
 		Log.info("Driver is initialized");
@@ -43,12 +44,12 @@ public class BaseClass {
 	}
 	
 	@BeforeMethod
-	public void beforeMethod() throws Exception 
+	public void beforeMethod(Method testMethod) throws Exception 
 	{
-		TestCaseName = this.toString();
+		TestCaseName = testMethod.getName().toString();
 		// From above method we get long test case name including package and class name etc.
 		// The below method will refine your test case name, exactly the name use have used
-		TestCaseName = Utils.getTestCaseName(this.toString());
+		//TestCaseName = Utils.getTestCaseName(testMethod.getName().toString());
 
 		// Start printing the logs and printing the Test Case name
 		Log.startTestCase(TestCaseName);
@@ -65,20 +66,20 @@ public class BaseClass {
 	public void afterMethod() 
 	{
 		Log.endTestCase(TestCaseName);
-		driver.close();
+		driver.quit();
 	}
 	
 	@AfterClass
 	public void tearDown()
 	{
-		driver.quit();
+		//driver.quit();
 	}
 	
-	public void captureScreen(WebDriver driver, String tname) throws IOException 
+	public void captureScreen(WebDriver driver) throws IOException 
 	{
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
-		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
+		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + TestCaseName + ".png");
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot taken");
 	}

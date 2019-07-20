@@ -21,7 +21,7 @@ public class ExcelUtils extends BaseClass
 		try 
 		{
 			// Open the Excel file
-			FileInputStream ExcelFile = new FileInputStream(Path);
+			FileInputStream ExcelFile = new FileInputStream(System.getProperty("user.dir").toString()+Path);
 			// Access the required test data sheet
 			ExcelWBook = new XSSFWorkbook(ExcelFile);
 			ExcelWSheet = ExcelWBook.getSheet(SheetName);

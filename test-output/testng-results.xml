@@ -2,32 +2,33 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-07-19T13:16:37Z" name="Suite1" finished-at="2019-07-19T13:16:56Z" duration-ms="18745">
+  <suite started-at="2019-07-20T13:39:48Z" name="Default suite" finished-at="2019-07-20T13:39:50Z" duration-ms="1671">
     <groups>
     </groups>
-    <test started-at="2019-07-19T13:16:37Z" name="Regression1" finished-at="2019-07-19T13:16:56Z" duration-ms="18745">
+    <test started-at="2019-07-20T13:39:48Z" name="Default test" finished-at="2019-07-20T13:39:50Z" duration-ms="1671">
       <class name="com.seleniumHybrid.testCase.TC_LoginTestModulleMethod">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-07-19T13:16:38Z" name="setup" finished-at="2019-07-19T13:16:55Z" duration-ms="16984" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@291caca8]" started-at="2019-07-20T13:39:48Z" name="beforeClass" finished-at="2019-07-20T13:39:49Z" duration-ms="1114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@291caca8]" started-at="2019-07-20T13:39:49Z" name="beforeMethod" finished-at="2019-07-20T13:39:50Z" duration-ms="468" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[public void com.seleniumHybrid.testCase.TC_LoginTestModulleMethod.LoginTest() throws java.lang.Exception]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="LoginTest1()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-07-19T13:16:55Z" name="LoginTest1" finished-at="2019-07-19T13:16:55Z" duration-ms="101" status="FAIL">
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LoginTest()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@291caca8]" started-at="2019-07-20T13:39:50Z" name="LoginTest" finished-at="2019-07-20T13:39:50Z" duration-ms="29" status="FAIL">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at com.sun.proxy.$Proxy11.click(Unknown Source)
-at com.seleniumHybrid.pageObject.SampWebHomePage.clickLoginButton(SampWebHomePage.java:23)
-at com.seleniumHybrid.appModule.SignIn_Action.Execute(SignIn_Action.java:19)
-at com.seleniumHybrid.testCase.TC_LoginTestModulleMethod.LoginTest1(TC_LoginTestModulleMethod.java:45)
+at com.seleniumHybrid.pageObject.SampWebHomePage.<init>(SampWebHomePage.java:14)
+at com.seleniumHybrid.appModule.SignIn_Action.Execute(SignIn_Action.java:17)
+at com.seleniumHybrid.testCase.TC_LoginTestModulleMethod.LoginTest(TC_LoginTestModulleMethod.java:13)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -58,12 +59,51 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-07-19T13:16:55Z" name="tearDown" finished-at="2019-07-19T13:16:56Z" duration-ms="1116" status="PASS">
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@291caca8]" started-at="2019-07-20T13:39:50Z" name="afterMethod" finished-at="2019-07-20T13:39:50Z" duration-ms="9" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.seleniumHybrid.testCase.BaseClass.afterMethod(BaseClass.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@291caca8]" started-at="2019-07-20T13:39:50Z" name="tearDown" finished-at="2019-07-20T13:39:50Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.seleniumHybrid.testCase.TC_LoginTestModulleMethod -->
-    </test> <!-- Regression1 -->
-  </suite> <!-- Suite1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
