@@ -336,3 +336,409 @@
 2019-07-20 19:23:49,335 [main] INFO Sel_Hybrid_v1 - X
 2019-07-20 19:23:49,336 [main] INFO Sel_Hybrid_v1 - X
 2019-07-20 19:23:49,346 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 11:02:54,871 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 11:02:56,110 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 11:02:56,123 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 11:02:56,124 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 11:02:56,125 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 11:02:56,126 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 11:02:56,127 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 11:02:56,128 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 11:02:56,137 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 11:02:56,138 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 11:02:56,140 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 11:02:56,141 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 11:02:56,142 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,3)
+2019-08-10 11:02:56,143 [main] INFO Sel_Hybrid_v1 - Value : Chrome
+2019-08-10 11:03:04,663 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-10 11:03:04,676 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-10 11:03:24,771 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-10 11:03:24,799 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,1)
+2019-08-10 11:03:24,801 [main] INFO Sel_Hybrid_v1 - Value : testuser_1
+2019-08-10 11:03:24,803 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,2)
+2019-08-10 11:03:24,804 [main] INFO Sel_Hybrid_v1 - Value : Test@123
+2019-08-10 11:04:05,078 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 11:04:05,085 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 11:04:05,086 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 11:04:05,087 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 11:04:05,087 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 11:51:51,252 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 11:51:52,233 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 11:51:52,241 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 11:51:52,243 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 11:51:52,243 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 11:51:52,245 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 11:51:52,245 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 11:51:52,245 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 11:51:52,252 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 11:51:52,252 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 11:51:52,253 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 11:51:52,254 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 11:51:52,255 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (2,3)
+2019-08-10 11:51:52,256 [main] INFO Sel_Hybrid_v1 - Value : Mozilla
+2019-08-10 11:51:52,265 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 11:51:52,265 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 11:51:52,273 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 11:51:52,275 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 11:51:52,275 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:03:10,272 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:03:11,062 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:03:11,078 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:03:11,078 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:03:11,078 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:03:11,078 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:03:11,078 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:03:11,078 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:03:11,093 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:12,334 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:05:13,203 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:05:13,216 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:13,217 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:13,218 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:05:13,219 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:13,219 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:13,220 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:05:13,227 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:05:13,227 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:05:13,228 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:05:13,229 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:05:13,229 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:05:13,241 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:05:13,243 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:13,244 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:13,247 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:13,248 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:57,225 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:05:58,071 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:05:58,084 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:58,084 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:58,085 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:05:58,085 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:58,086 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:58,086 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:05:58,093 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:05:58,094 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:05:58,095 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:05:58,095 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:05:58,096 [main] INFO Sel_Hybrid_v1 - LoginTest Have no test data
+2019-08-10 12:05:58,105 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,1)
+2019-08-10 12:05:58,106 [main] INFO Sel_Hybrid_v1 - Value : testuser_1
+2019-08-10 12:05:58,107 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,2)
+2019-08-10 12:05:58,110 [main] INFO Sel_Hybrid_v1 - Value : Test@123
+2019-08-10 12:05:58,128 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:05:58,129 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:58,130 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:58,131 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:58,132 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:58,136 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:58,136 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:58,137 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:05:58,138 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:58,138 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:05:58,139 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:05:58,140 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:05:58,141 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:05:58,141 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:05:58,144 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:05:58,145 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:05:58,153 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:05:58,153 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:58,154 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:58,155 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:05:58,156 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:07:37,506 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:07:38,297 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:07:38,312 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:07:38,313 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:07:38,316 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:07:38,316 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:07:38,317 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:07:38,317 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:07:38,324 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:07:38,325 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:07:38,325 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:07:38,326 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:07:38,326 [main] INFO Sel_Hybrid_v1 - LoginTest Have no test data
+2019-08-10 12:07:38,333 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,1)
+2019-08-10 12:07:38,334 [main] INFO Sel_Hybrid_v1 - Value : testuser_1
+2019-08-10 12:07:38,335 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,2)
+2019-08-10 12:07:38,336 [main] INFO Sel_Hybrid_v1 - Value : Test@123
+2019-08-10 12:07:38,355 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:07:38,356 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:07:38,356 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:07:38,357 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:07:38,357 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:08:41,958 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:08:42,848 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:08:42,862 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:08:42,862 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:08:42,863 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:08:42,864 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:08:42,865 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:08:51,380 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:08:51,935 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:08:51,952 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:08:51,974 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:08:51,990 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:09:44,226 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:09:45,009 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:09:45,018 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:09:45,019 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:09:45,020 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:09:45,020 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:09:45,021 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:09:45,021 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:09:45,029 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:09:45,030 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:09:45,031 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:09:45,031 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:09:45,033 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (2,3)
+2019-08-10 12:09:45,034 [main] INFO Sel_Hybrid_v1 - Value : Mozilla
+2019-08-10 12:09:45,043 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:09:45,044 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:09:45,046 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:09:45,047 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:09:45,047 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:10:37,275 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:10:38,042 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:10:38,055 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:10:38,056 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:10:38,056 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:10:38,056 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:10:38,057 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:10:38,057 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:10:38,064 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:10:38,064 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:10:38,065 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:10:38,066 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:10:38,067 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (2,3)
+2019-08-10 12:10:38,068 [main] INFO Sel_Hybrid_v1 - Value : Mozilla
+2019-08-10 12:10:38,077 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:10:38,078 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:10:38,081 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:10:38,081 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:10:38,082 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:10:46,629 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:10:47,455 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:10:47,469 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:10:47,470 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:10:47,470 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:10:47,471 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:10:47,471 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:10:52,931 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:10:53,386 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:10:53,400 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:10:53,418 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:10:53,431 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:14:09,538 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:14:10,305 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:14:10,317 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:14:10,317 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:14:10,318 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:14:10,318 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:14:10,319 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:14:10,319 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:14:10,326 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:14:10,327 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:14:10,328 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:14:10,328 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:14:10,329 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:14:10,339 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:14:10,340 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:14:10,340 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:14:10,343 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:14:10,343 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:14:44,662 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:14:45,424 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:14:45,438 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:14:45,439 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:14:45,440 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:14:45,440 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:14:45,441 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:14:45,441 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:14:45,448 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:14:45,448 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:14:45,449 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:14:45,450 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:14:45,451 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,3)
+2019-08-10 12:14:45,452 [main] INFO Sel_Hybrid_v1 - Value : Chrome
+2019-08-10 12:14:49,221 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-10 12:14:49,241 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-10 12:14:58,344 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-10 12:14:58,356 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,1)
+2019-08-10 12:14:58,357 [main] INFO Sel_Hybrid_v1 - Value : testuser_1
+2019-08-10 12:14:58,358 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,2)
+2019-08-10 12:14:58,358 [main] INFO Sel_Hybrid_v1 - Value : Test@123
+2019-08-10 12:15:38,554 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:15:38,558 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:15:38,566 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:15:38,567 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:15:38,568 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:15:39,276 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:15:39,278 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:15:39,279 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:15:39,280 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:15:39,282 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:15:39,283 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 2 >.
+2019-08-10 12:15:39,285 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (0,0)
+2019-08-10 12:15:39,287 [main] INFO Sel_Hybrid_v1 - Value : Test Case Name
+2019-08-10 12:15:39,288 [main] INFO Sel_Hybrid_v1 - Data retrieved from excel cell (1,0)
+2019-08-10 12:15:39,289 [main] INFO Sel_Hybrid_v1 - Value : LoginTest
+2019-08-10 12:15:39,291 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:15:39,306 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:15:39,308 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:15:39,309 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:15:39,310 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:15:39,311 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:21:17,503 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:21:18,254 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:21:18,271 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:21:18,272 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:21:18,274 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:21:18,275 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:21:18,275 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:21:18,276 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 3 >.
+2019-08-10 12:21:21,859 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-10 12:21:21,869 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-10 12:21:30,378 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-10 12:21:33,139 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:21:33,140 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:21:33,141 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:21:33,144 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:21:33,145 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:21:33,929 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:21:33,932 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:21:33,933 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:21:33,935 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:21:33,936 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:21:33,938 [main] INFO Sel_Hybrid_v1 - Total number of Row used return as < 3 >.
+2019-08-10 12:21:33,939 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:21:33,947 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:21:33,949 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:21:33,950 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:21:33,950 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:21:33,952 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:36:26,948 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:36:27,708 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:36:27,718 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:36:27,719 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:36:27,720 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:36:27,721 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:36:27,722 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:36:31,017 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-10 12:36:31,062 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-10 12:36:43,698 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-10 12:36:44,825 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-10 12:37:25,016 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:37:25,018 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:37:25,019 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:37:25,021 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:37:25,022 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:37:25,730 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:37:25,731 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:37:25,731 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:37:25,732 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:37:25,732 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:37:25,733 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:37:25,738 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:37:25,739 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:37:25,740 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:37:25,740 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:37:25,741 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:38:51,380 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:38:52,229 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:38:52,241 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:38:52,242 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:38:52,242 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:38:52,242 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:38:52,243 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:38:55,674 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-10 12:38:55,686 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-10 12:39:04,785 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-10 12:39:05,927 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-10 12:40:51,032 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:40:51,039 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:40:51,042 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:40:51,045 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:40:51,047 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:40:51,800 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:40:51,805 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:40:51,808 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:40:51,810 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:40:51,812 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:40:51,816 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:40:51,836 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:40:51,838 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:40:51,839 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:40:51,840 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:40:51,842 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:44:11,844 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:44:12,628 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:44:12,642 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:44:12,643 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:44:12,644 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:44:12,645 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:44:12,645 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:44:16,208 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-10 12:44:16,217 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-10 12:44:16,874 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-10 12:44:17,998 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-10 12:44:48,427 [main] INFO Sel_Hybrid_v1 - Sign in button clicked
+2019-08-10 12:44:48,705 [main] INFO Sel_Hybrid_v1 - username entered
+2019-08-10 12:44:48,779 [main] INFO Sel_Hybrid_v1 - password entered
+2019-08-10 12:44:50,500 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-08-10 12:44:51,003 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:44:51,006 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:44:51,006 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:44:51,007 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:44:51,007 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:44:51,731 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:44:51,733 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:44:51,734 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:44:51,735 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:44:51,735 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:44:51,737 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:44:51,747 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:44:51,750 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:44:51,751 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:44:51,753 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:44:51,755 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:45:18,832 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-10 12:45:19,585 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-10 12:45:19,599 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:45:19,599 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:45:19,600 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:45:19,601 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:45:19,601 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:45:22,899 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-10 12:45:22,908 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-10 12:45:31,960 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-10 12:45:33,095 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-10 12:45:35,960 [main] INFO Sel_Hybrid_v1 - Sign in button clicked
+2019-08-10 12:45:36,314 [main] INFO Sel_Hybrid_v1 - username entered
+2019-08-10 12:45:36,420 [main] INFO Sel_Hybrid_v1 - password entered
+2019-08-10 12:45:38,519 [main] INFO Sel_Hybrid_v1 - login button clicked
+2019-08-10 12:45:38,959 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:45:38,961 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:45:38,961 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:45:38,962 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:45:38,963 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:45:39,681 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:45:39,684 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:45:39,685 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-10 12:45:39,687 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:45:39,688 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-10 12:45:39,691 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-10 12:45:39,705 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-10 12:45:39,706 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:45:39,707 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:45:39,708 [main] INFO Sel_Hybrid_v1 - X
+2019-08-10 12:45:39,709 [main] INFO Sel_Hybrid_v1 - X

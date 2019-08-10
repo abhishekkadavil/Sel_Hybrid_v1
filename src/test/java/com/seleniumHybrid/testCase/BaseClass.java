@@ -35,11 +35,6 @@ public class BaseClass {
 	{
 		Log.InitLog();
 		Log.info("Driver is initialized");
-		
-		// Setting up the Test Data Excel file using Constants variables
-		// For Constant Variables please see http://www.toolsqa.com/constant-variables/
-		// For setting up Excel for Data driven testing, please see
-		// http://www.toolsqa.com/data-driven-testing-excel-poi/
 		ExcelUtils.setExcelFile(TestDataPath, TestDataSheet);
 	}
 	
@@ -57,16 +52,30 @@ public class BaseClass {
 		// Fetching the Test Case row number from the Test Data Sheet
 		// This row number will be feed to so many functions, to get the relevant data from the Test Data sheet 
 		TestCaseRow = ExcelUtils.getRowContains(TestCaseName,Constant.Col_TestCaseName);
-
-		// Launching the browser, this will take the Browser Type from Test Data Sheet 
-		driver = Utils.OpenBrowser(TestCaseRow);
+		if(TestCaseRow>0)
+		{
+			// Launching the browser, this will take the Browser Type from Test Data Sheet 
+			driver = Utils.OpenBrowser(TestCaseRow);
+		}
+		else
+		{
+			Log.info(TestCaseName + " Have no test data");
+		}
+		
 	}
 	
 	@AfterMethod
 	public void afterMethod() 
 	{
-		Log.endTestCase(TestCaseName);
-		driver.quit();
+		if(driver!=null)
+		{
+			Log.endTestCase(TestCaseName);
+			driver.quit();
+		}
+		else
+		{
+			Log.endTestCase(TestCaseName);
+		}
 	}
 	
 	@AfterClass

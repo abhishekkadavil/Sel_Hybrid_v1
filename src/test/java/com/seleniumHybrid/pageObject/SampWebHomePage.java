@@ -11,7 +11,7 @@ import com.seleniumHybrid.utils.Log;
 public class SampWebHomePage extends BaseClass {
 	
 	WebDriver Idriver;
-	private WebElement btnSignIn=driver.findElement(By.className("login"));
+	private WebElement btnSignIn=driver.findElement(By.xpath("//a[@class='login']"));
 	
 	public SampWebHomePage(WebDriver rdriver)
 	{

@@ -41,8 +41,8 @@ public class ExcelUtils extends BaseClass
 		{
 			Cell = ExcelWSheet.getRow(RowNum).getCell(ColNum);
 			String CellData = Cell.getStringCellValue();
-			Log.info("Data retrieved from excel cell ("+RowNum+","+ColNum+")");
-			Log.info("Value : "+CellData);
+//			Log.info("Data retrieved from excel cell ("+RowNum+","+ColNum+")");
+//			Log.info("Value : "+CellData);
 			return CellData;
 		}
 		catch (Exception e)
@@ -82,17 +82,18 @@ public class ExcelUtils extends BaseClass
 
 	public static int getRowContains(String sTestCaseName, int colNum) throws Exception
 	{
-		int i;
+		int RowNumber=0;
 		try {
 			int rowCount = getRowUsed();
-			for ( i=0 ; i<rowCount; i++)
+			for (int i=0 ; i<rowCount; i++)
 			{
 				if  (getCellData(i,colNum).equalsIgnoreCase(sTestCaseName))
 				{
+					RowNumber=i;
 					break;
 				}
 			}
-			return i;
+			return RowNumber;
 		}
 		catch (Exception e)
 		{
@@ -106,7 +107,7 @@ public class ExcelUtils extends BaseClass
 		try
 		{
 			int RowCount = ExcelWSheet.getLastRowNum();
-			Log.info("Total number of Row used return as < " + RowCount + " >.");		
+//			Log.info("Total number of Row used return as < " + RowCount + " >.");		
 			return RowCount;
 		}
 		catch (Exception e)

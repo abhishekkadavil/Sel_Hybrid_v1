@@ -8,6 +8,12 @@ public class TC_LoginTestModulleMethod extends BaseClass
 {
 
 	@Test()
+	public void abc() throws Exception
+	{	
+			System.out.println("Test");
+	}
+	
+	@Test()
 	public void LoginTest() throws Exception
 	{	
 			SignIn_Action.Execute(TestCaseRow);
