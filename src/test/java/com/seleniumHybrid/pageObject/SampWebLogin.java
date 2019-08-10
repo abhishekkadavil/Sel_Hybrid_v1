@@ -40,7 +40,7 @@ public class SampWebLogin extends BaseClass {
 	public void setPaswword(String password)
 	{
 		txtUserName.sendKeys(password);
-		Log.info("password entered");
+		Log.info("password entered.");
 	}
 	
 	public void clickSubmitButton()
