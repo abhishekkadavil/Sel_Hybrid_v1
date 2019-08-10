@@ -17,10 +17,10 @@ public class SignIn_Action extends BaseClass
 		SampWebHomePage home= new SampWebHomePage(driver);
 		home.clickLoginButton();
 		
-		SampWebLogin login= new SampWebLogin(driver);
-		login.setUserName(uname);
-		login.setPaswword(password);
-		login.clickSubmitButton();
+//		SampWebLogin login= new SampWebLogin(driver);
+//		login.setUserName(uname);
+//		login.setPaswword(password);
+//		login.clickSubmitButton();
 
 	}
 

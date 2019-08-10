@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-08-10T07:15:18Z" name="Default suite" finished-at="2019-08-10T07:15:39Z" duration-ms="21076">
+  <suite started-at="2019-08-10T16:55:41Z" name="Default suite" finished-at="2019-08-10T16:56:04Z" duration-ms="22946">
     <groups>
     </groups>
-    <test started-at="2019-08-10T07:15:18Z" name="Default test" finished-at="2019-08-10T07:15:39Z" duration-ms="21076">
+    <test started-at="2019-08-10T16:55:41Z" name="Default test" finished-at="2019-08-10T16:56:04Z" duration-ms="22946">
       <class name="com.seleniumHybrid.testCase.TC_LoginTestModulleMethod">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-08-10T07:15:18Z" name="beforeClass" finished-at="2019-08-10T07:15:19Z" duration-ms="935" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@2e1d27ba]" started-at="2019-08-10T16:55:41Z" name="beforeClass" finished-at="2019-08-10T16:55:42Z" duration-ms="994" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-08-10T07:15:19Z" name="beforeMethod" finished-at="2019-08-10T07:15:33Z" duration-ms="13499" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@2e1d27ba]" started-at="2019-08-10T16:55:42Z" name="beforeMethod" finished-at="2019-08-10T16:55:58Z" duration-ms="16318" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,15 +22,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="LoginTest()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-08-10T07:15:33Z" name="LoginTest" finished-at="2019-08-10T07:15:38Z" duration-ms="5859" status="PASS">
+        <test-method signature="LoginTest()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@2e1d27ba]" started-at="2019-08-10T16:55:58Z" name="LoginTest" finished-at="2019-08-10T16:56:03Z" duration-ms="4694" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-08-10T07:15:38Z" name="afterMethod" finished-at="2019-08-10T07:15:39Z" duration-ms="704" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@2e1d27ba]" started-at="2019-08-10T16:56:03Z" name="afterMethod" finished-at="2019-08-10T16:56:04Z" duration-ms="853" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-08-10T07:15:39Z" name="beforeMethod" finished-at="2019-08-10T07:15:39Z" duration-ms="12" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@2e1d27ba]" started-at="2019-08-10T16:56:04Z" name="beforeMethod" finished-at="2019-08-10T16:56:04Z" duration-ms="14" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,15 +41,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="abc()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-08-10T07:15:39Z" name="abc" finished-at="2019-08-10T07:15:39Z" duration-ms="7" status="PASS">
+        <test-method signature="abc()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@2e1d27ba]" started-at="2019-08-10T16:56:04Z" name="abc" finished-at="2019-08-10T16:56:04Z" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- abc -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-08-10T07:15:39Z" name="afterMethod" finished-at="2019-08-10T07:15:39Z" duration-ms="6" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@2e1d27ba]" started-at="2019-08-10T16:56:04Z" name="afterMethod" finished-at="2019-08-10T16:56:04Z" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@385e9564]" started-at="2019-08-10T07:15:39Z" name="tearDown" finished-at="2019-08-10T07:15:39Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumHybrid.testCase.TC_LoginTestModulleMethod@2e1d27ba]" started-at="2019-08-10T16:56:04Z" name="tearDown" finished-at="2019-08-10T16:56:04Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

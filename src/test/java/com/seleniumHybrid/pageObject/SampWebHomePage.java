@@ -16,7 +16,7 @@ public class SampWebHomePage extends BaseClass {
 	public SampWebHomePage(WebDriver rdriver)
 	{
 		Idriver=rdriver;
-		PageFactory.initElements(rdriver, this);
+		//PageFactory.initElements(rdriver, this);
 	}
 	
 	public void clickLoginButton()
