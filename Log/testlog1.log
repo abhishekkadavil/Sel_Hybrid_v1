@@ -824,3 +824,143 @@
 2019-08-10 22:26:04,173 [main] INFO Sel_Hybrid_v1 - X
 2019-08-10 22:26:04,173 [main] INFO Sel_Hybrid_v1 - X
 2019-08-10 22:26:04,178 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 08:39:19,209 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-11 08:39:22,355 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-11 08:39:22,367 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 08:39:22,368 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 08:39:22,369 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 08:39:22,370 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 08:39:22,372 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 08:39:29,259 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-11 08:39:29,273 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-11 08:39:42,821 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-11 08:39:43,974 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-11 08:39:48,122 [main] INFO Sel_Hybrid_v1 - Sign in button clicked
+2019-08-11 08:39:49,153 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 08:39:49,155 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 08:39:49,156 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 08:39:49,157 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 08:39:49,162 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 08:39:49,934 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 08:39:49,937 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 08:39:49,945 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 08:39:49,947 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 08:39:49,949 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 08:39:49,953 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-11 08:39:49,958 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 08:39:49,960 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 08:39:49,962 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 08:39:49,963 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 08:39:49,965 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:19,023 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-11 09:46:19,809 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-11 09:46:19,816 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:19,816 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:19,824 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 09:46:19,824 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:19,825 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:23,697 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-11 09:46:23,709 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-11 09:46:34,874 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-11 09:46:36,030 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-11 09:46:39,475 [main] INFO Sel_Hybrid_v1 - Sign in button clicked
+2019-08-11 09:46:40,197 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 09:46:40,197 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:40,197 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:40,200 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:40,202 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:40,946 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:40,951 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:40,955 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 09:46:40,955 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:40,955 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:40,955 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-11 09:46:40,972 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 09:46:40,974 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:40,975 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:40,977 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:40,979 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:46:41,979 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-11 09:46:42,090 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-11 09:46:42,090 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:42,121 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:42,121 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 09:46:42,152 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:42,168 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:46:46,939 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-11 09:46:46,958 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-11 09:47:02,083 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-11 09:47:03,273 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-11 09:47:07,012 [main] INFO Sel_Hybrid_v1 - Sign in button clicked
+2019-08-11 09:47:07,627 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 09:47:07,627 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:47:07,627 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:47:07,627 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:47:07,627 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:47:08,381 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:47:08,384 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:47:08,385 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 09:47:08,385 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:47:08,394 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:47:08,395 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-11 09:47:08,395 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 09:47:08,395 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:47:08,395 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:47:08,411 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:47:08,411 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:48:19,983 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-11 09:48:21,154 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-11 09:48:21,157 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:48:21,157 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:48:21,157 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 09:48:21,157 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:48:21,157 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:48:26,972 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-11 09:48:27,015 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-11 09:48:36,433 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-11 09:48:37,581 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-11 09:48:41,469 [main] INFO Sel_Hybrid_v1 - Sign in button clicked
+2019-08-11 09:48:42,329 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 09:48:42,329 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:48:42,329 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:48:42,329 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:48:42,329 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:48:43,096 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:48:43,096 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:48:43,096 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 09:48:43,096 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:48:43,096 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:48:43,096 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-11 09:48:43,112 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 09:48:43,112 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:48:43,112 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:48:43,112 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:48:43,112 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:51:48,414 [main] INFO Sel_Hybrid_v1 - Driver is initialized
+2019-08-11 09:51:49,215 [main] INFO Sel_Hybrid_v1 - Excel sheet opened
+2019-08-11 09:51:49,222 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:51:49,228 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:51:49,228 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 09:51:49,229 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:51:49,229 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:51:52,797 [main] INFO Sel_Hybrid_v1 - Driver selected as chrome
+2019-08-11 09:51:52,808 [main] INFO Sel_Hybrid_v1 - Implicit wait applied on the driver for 10 seconds
+2019-08-11 09:52:07,811 [main] INFO Sel_Hybrid_v1 - Web application launched successfully
+2019-08-11 09:52:08,966 [main] INFO Sel_Hybrid_v1 - Chrome window maximized successfully
+2019-08-11 09:52:13,257 [main] INFO Sel_Hybrid_v1 - Sign in button clicked
+2019-08-11 09:52:13,937 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 09:52:13,937 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:52:13,937 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:52:13,937 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:52:13,937 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:52:14,698 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:52:14,698 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:52:14,705 [main] INFO Sel_Hybrid_v1 - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 09:52:14,705 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:52:14,705 [main] INFO Sel_Hybrid_v1 - ****************************************************************************************
+2019-08-11 09:52:14,705 [main] INFO Sel_Hybrid_v1 - abc Have no test data
+2019-08-11 09:52:14,724 [main] INFO Sel_Hybrid_v1 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 09:52:14,725 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:52:14,725 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:52:14,729 [main] INFO Sel_Hybrid_v1 - X
+2019-08-11 09:52:14,730 [main] INFO Sel_Hybrid_v1 - X
