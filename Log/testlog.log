@@ -964,3 +964,31 @@
 2019-08-11 09:52:14,725 - Sel_Hybrid_v1 -INFO - X
 2019-08-11 09:52:14,729 - Sel_Hybrid_v1 -INFO - X
 2019-08-11 09:52:14,730 - Sel_Hybrid_v1 -INFO - X
+2019-08-11 18:12:49,233 - Sel_Hybrid_v1 -INFO - Driver is initialized
+2019-08-11 18:12:50,521 - Sel_Hybrid_v1 -INFO - Excel sheet opened
+2019-08-11 18:12:50,538 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-08-11 18:12:50,539 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-08-11 18:12:50,541 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 18:12:50,544 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-08-11 18:12:50,553 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-08-11 18:12:56,469 - Sel_Hybrid_v1 -INFO - Driver selected as chrome
+2019-08-11 18:12:56,498 - Sel_Hybrid_v1 -INFO - Implicit wait applied on the driver for 10 seconds
+2019-08-11 18:13:07,186 - Sel_Hybrid_v1 -INFO - Web application launched successfully
+2019-08-11 18:13:08,328 - Sel_Hybrid_v1 -INFO - Chrome window maximized successfully
+2019-08-11 18:13:12,304 - Sel_Hybrid_v1 -INFO - Sign in button clicked
+2019-08-11 18:13:13,326 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 18:13:13,328 - Sel_Hybrid_v1 -INFO - X
+2019-08-11 18:13:13,330 - Sel_Hybrid_v1 -INFO - X
+2019-08-11 18:13:13,331 - Sel_Hybrid_v1 -INFO - X
+2019-08-11 18:13:13,344 - Sel_Hybrid_v1 -INFO - X
+2019-08-11 18:13:14,140 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-08-11 18:13:14,141 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-08-11 18:13:14,143 - Sel_Hybrid_v1 -INFO - $$$$$$$$$$$$$$$$$$$$$                 abc       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-08-11 18:13:14,146 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-08-11 18:13:14,148 - Sel_Hybrid_v1 -INFO - ****************************************************************************************
+2019-08-11 18:13:14,150 - Sel_Hybrid_v1 -INFO - abc Have no test data
+2019-08-11 18:13:14,179 - Sel_Hybrid_v1 -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-08-11 18:13:14,189 - Sel_Hybrid_v1 -INFO - X
+2019-08-11 18:13:14,191 - Sel_Hybrid_v1 -INFO - X
+2019-08-11 18:13:14,193 - Sel_Hybrid_v1 -INFO - X
+2019-08-11 18:13:14,195 - Sel_Hybrid_v1 -INFO - X
